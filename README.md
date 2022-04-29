@@ -1,4 +1,4 @@
-# [Ford-Fulkerson Algorithm](https://en.wikipedia.org/wiki/Ford–Fulkerson_algorithm)
+# [Ford-Fulkerson Algorithm](https://github.com/DAEHEE97/Ford-Fulkerson-Algorithm/blob/main/Ford%20Fulkerson%20Algorithm.ipynb)
 
 
 The Ford–Fulkerson method 혹은 Ford–Fulkerson algorithm (FFA) 는 flow network 에서 최대 유량을 계산하는 그리디 알고리즘 입니다.
